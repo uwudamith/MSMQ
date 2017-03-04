@@ -1,0 +1,8 @@
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\WcfServer\bin\Debug\WcfServer.exe.config
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\WcfServer\bin\Debug\WcfServer.exe
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\WcfServer\bin\Debug\Dto.dll
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\WcfServer\bin\Debug\Dto.pdb
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\WcfServer\obj\Debug\WcfServer.csprojResolveAssemblyReference.cache
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\WcfServer\obj\Debug\WcfServer.exe
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\WcfServer\obj\Debug\WcfServer.pdb

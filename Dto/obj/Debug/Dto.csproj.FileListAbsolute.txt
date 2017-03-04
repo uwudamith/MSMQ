@@ -1,0 +1,5 @@
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\Dto\bin\Debug\Dto.dll.config
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\Dto\bin\Debug\Dto.dll
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\Dto\bin\Debug\Dto.pdb
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\Dto\obj\Debug\Dto.dll
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\Dto\obj\Debug\Dto.pdb

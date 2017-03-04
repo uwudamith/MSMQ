@@ -1,0 +1,8 @@
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\MSMQ\MSMQ\bin\Debug\MSMQ.exe.config
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\MSMQ\MSMQ\bin\Debug\MSMQ.exe
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\MSMQ\MSMQ\bin\Debug\MSMQ.pdb
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.csprojResolveAssemblyReference.cache
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.exe
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.pdb
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\MSMQ\bin\Debug\Dto.dll
+C:\Users\Damith.Wanninayake\Documents\Visual Studio 2013\Projects\MSMQ\MSMQ\bin\Debug\Dto.pdb

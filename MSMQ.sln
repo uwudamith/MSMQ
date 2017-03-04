@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQ", "MSMQ\MSMQ.csproj", "{F10F7E7F-B362-4A68-A8A4-1CE9A2B95D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "Dto\Dto.csproj", "{1014FDFB-F29A-458E-9561-1D77119F9BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServer", "WcfServer\WcfServer.csproj", "{FAF02DAB-A042-4F5B-A201-1872D37C65D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10F7E7F-B362-4A68-A8A4-1CE9A2B95D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10F7E7F-B362-4A68-A8A4-1CE9A2B95D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10F7E7F-B362-4A68-A8A4-1CE9A2B95D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10F7E7F-B362-4A68-A8A4-1CE9A2B95D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1014FDFB-F29A-458E-9561-1D77119F9BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1014FDFB-F29A-458E-9561-1D77119F9BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1014FDFB-F29A-458E-9561-1D77119F9BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1014FDFB-F29A-458E-9561-1D77119F9BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF02DAB-A042-4F5B-A201-1872D37C65D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF02DAB-A042-4F5B-A201-1872D37C65D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF02DAB-A042-4F5B-A201-1872D37C65D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF02DAB-A042-4F5B-A201-1872D37C65D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
